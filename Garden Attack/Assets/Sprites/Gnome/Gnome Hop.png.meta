@@ -1,0 +1,2251 @@
+fileFormatVersion: 2
+guid: 42325ffc8081a194f91d9b930a6eab27
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8532853575984537022
+    second: Gnome Hop_0
+  - first:
+      213: -5672886484280828777
+    second: Gnome Hop_1
+  - first:
+      213: 657327705973076454
+    second: Gnome Hop_2
+  - first:
+      213: 2316559351308807121
+    second: Gnome Hop_3
+  - first:
+      213: 259241948786745635
+    second: Gnome Hop_4
+  - first:
+      213: -5187855032976046438
+    second: Gnome Hop_5
+  - first:
+      213: -2024161416504286770
+    second: Gnome Hop_6
+  - first:
+      213: -7122400225289531641
+    second: Gnome Hop_7
+  - first:
+      213: 7012729498918721938
+    second: Gnome Hop_8
+  - first:
+      213: 471822915718253400
+    second: Gnome Hop_9
+  - first:
+      213: -7122136188106420382
+    second: Gnome Hop_10
+  - first:
+      213: -1414849632348080125
+    second: Gnome Hop_11
+  - first:
+      213: -9078147656532628652
+    second: Gnome Hop_12
+  - first:
+      213: -8769784066048970147
+    second: Gnome Hop_13
+  - first:
+      213: -1880229118610201177
+    second: Gnome Hop_14
+  - first:
+      213: 3893949245764929553
+    second: Gnome Hop_15
+  - first:
+      213: -3631338253544597991
+    second: Gnome Hop_16
+  - first:
+      213: 3940239255344927589
+    second: Gnome Hop_17
+  - first:
+      213: 8187824266740807399
+    second: Gnome Hop_18
+  - first:
+      213: 7195364369422565538
+    second: Gnome Hop_19
+  - first:
+      213: 1310151184980382881
+    second: Gnome Hop_20
+  - first:
+      213: 1168807531893550677
+    second: Gnome Hop_21
+  - first:
+      213: -5017501299387454457
+    second: Gnome Hop_22
+  - first:
+      213: 4031936852452754682
+    second: Gnome Hop_23
+  - first:
+      213: 8171803497616705873
+    second: Gnome Hop_24
+  - first:
+      213: -7105750609925985678
+    second: Gnome Hop_25
+  - first:
+      213: -476040860021938223
+    second: Gnome Hop_26
+  - first:
+      213: 1632309137338627854
+    second: Gnome Hop_27
+  - first:
+      213: -2751671173275473008
+    second: Gnome Hop_28
+  - first:
+      213: 8481906564496094328
+    second: Gnome Hop_29
+  - first:
+      213: -604349844403306573
+    second: Gnome Hop_30
+  - first:
+      213: 3976132462582639981
+    second: Gnome Hop_31
+  - first:
+      213: -8639902086374452900
+    second: Gnome Hop_32
+  - first:
+      213: 3267099719303426284
+    second: Gnome Hop_33
+  - first:
+      213: -4296617657107753830
+    second: Gnome Hop_34
+  - first:
+      213: -1053557227357393288
+    second: Gnome Hop_35
+  - first:
+      213: -3417650806587412035
+    second: Gnome Hop_36
+  - first:
+      213: -3028072183334005023
+    second: Gnome Hop_37
+  - first:
+      213: -4135463992063606325
+    second: Gnome Hop_38
+  - first:
+      213: -222245715040141255
+    second: Gnome Hop_39
+  - first:
+      213: -5414238570711215997
+    second: Gnome Hop_40
+  - first:
+      213: 7560386607179199240
+    second: Gnome Hop_41
+  - first:
+      213: 1751359134326592174
+    second: Gnome Hop_42
+  - first:
+      213: 4529190332452341308
+    second: Gnome Hop_43
+  - first:
+      213: -2667285908754755825
+    second: Gnome Hop_44
+  - first:
+      213: 1736435805960529724
+    second: Gnome Hop_45
+  - first:
+      213: 5764010908484043680
+    second: Gnome Hop_46
+  - first:
+      213: -7362903873890987540
+    second: Gnome Hop_47
+  - first:
+      213: 6166489826375927864
+    second: Gnome Hop_48
+  - first:
+      213: -3991449425198792588
+    second: Gnome Hop_49
+  - first:
+      213: 7628402429364708424
+    second: Gnome Hop_50
+  - first:
+      213: 8515420749459983880
+    second: Gnome Hop_51
+  - first:
+      213: -5514655489717855164
+    second: Gnome Hop_52
+  - first:
+      213: 7735746939442177755
+    second: Gnome Hop_53
+  - first:
+      213: 1300672442130884126
+    second: Gnome Hop_54
+  - first:
+      213: 5187513252338467049
+    second: Gnome Hop_55
+  - first:
+      213: -8802940753921883745
+    second: Gnome Hop_56
+  - first:
+      213: -4327885850276669226
+    second: Gnome Hop_57
+  - first:
+      213: -5615187382973402021
+    second: Gnome Hop_58
+  - first:
+      213: 4338784885408898919
+    second: Gnome Hop_59
+  - first:
+      213: 264106444716429010
+    second: Gnome Hop_60
+  - first:
+      213: 8806022458391826125
+    second: Gnome Hop_61
+  - first:
+      213: 6162172910617701284
+    second: Gnome Hop_62
+  - first:
+      213: 4448931641210348857
+    second: Gnome Hop_63
+  - first:
+      213: 2432621656766702790
+    second: Gnome Hop_64
+  - first:
+      213: 7111603529456058782
+    second: Gnome Hop_65
+  - first:
+      213: 2625103193530051137
+    second: Gnome Hop_66
+  - first:
+      213: 8459644903739034294
+    second: Gnome Hop_67
+  - first:
+      213: -429685850934283380
+    second: Gnome Hop_68
+  - first:
+      213: -351314854552318916
+    second: Gnome Hop_69
+  - first:
+      213: -6458776410722640734
+    second: Gnome Hop_70
+  - first:
+      213: -4538109687690443548
+    second: Gnome Hop_71
+  - first:
+      213: 6986128222161429755
+    second: Gnome Hop_72
+  - first:
+      213: 2124037203794642259
+    second: Gnome Hop_73
+  - first:
+      213: -6803767415676678865
+    second: Gnome Hop_74
+  - first:
+      213: 290864754322686135
+    second: Gnome Hop_75
+  - first:
+      213: -6739342931050721407
+    second: Gnome Hop_76
+  - first:
+      213: 7674366087527189480
+    second: Gnome Hop_77
+  - first:
+      213: 4535189517316313963
+    second: Gnome Hop_78
+  - first:
+      213: 2334261615931155077
+    second: Gnome Hop_79
+  - first:
+      213: -7070281265094304554
+    second: Gnome Hop_80
+  - first:
+      213: 8682051951737055916
+    second: Gnome Hop_81
+  - first:
+      213: -7127070307113728602
+    second: Gnome Hop_82
+  - first:
+      213: -8602514550567628285
+    second: Gnome Hop_83
+  - first:
+      213: 2695657405066981786
+    second: Gnome Hop_84
+  - first:
+      213: 8675059751104718910
+    second: Gnome Hop_85
+  - first:
+      213: 9104441257976637716
+    second: Gnome Hop_86
+  - first:
+      213: -2143900325473450347
+    second: Gnome Hop_87
+  - first:
+      213: 4428788470343826793
+    second: Gnome Hop_88
+  - first:
+      213: -3756303159289908416
+    second: Gnome Hop_89
+  - first:
+      213: -2966480746660135886
+    second: Gnome Hop_90
+  - first:
+      213: 8548877698457539231
+    second: Gnome Hop_91
+  - first:
+      213: -998669527419674213
+    second: Gnome Hop_92
+  - first:
+      213: 4543521117322899403
+    second: Gnome Hop_93
+  - first:
+      213: -8438447587049207943
+    second: Gnome Hop_94
+  - first:
+      213: -1057674960776862102
+    second: Gnome Hop_95
+  - first:
+      213: -4357669816362534008
+    second: Gnome Hop_96
+  - first:
+      213: -1957258346178895812
+    second: Gnome Hop_97
+  - first:
+      213: 4308654671409913118
+    second: Gnome Hop_98
+  - first:
+      213: 7609341435770379877
+    second: Gnome Hop_99
+  - first:
+      213: 3555278544160307682
+    second: Gnome Hop_100
+  - first:
+      213: 7389693702826822861
+    second: Gnome Hop_101
+  - first:
+      213: -6878136975000259788
+    second: Gnome Hop_102
+  - first:
+      213: -7812167763894822573
+    second: Gnome Hop_103
+  - first:
+      213: 2530991117585721397
+    second: Gnome Hop_104
+  - first:
+      213: 7650699572395231476
+    second: Gnome Hop_105
+  - first:
+      213: -9098786265229717668
+    second: Gnome Hop_106
+  - first:
+      213: -7395458353422278619
+    second: Gnome Hop_107
+  - first:
+      213: -8094091869912492875
+    second: Gnome Hop_108
+  - first:
+      213: -4814287406730219575
+    second: Gnome Hop_109
+  - first:
+      213: -853303627243669381
+    second: Gnome Hop_110
+  - first:
+      213: 893207197469416348
+    second: Gnome Hop_111
+  - first:
+      213: 8693116528265388818
+    second: Gnome Hop_112
+  - first:
+      213: 5388216112427295653
+    second: Gnome Hop_113
+  - first:
+      213: -1209680912014971407
+    second: Gnome Hop_114
+  - first:
+      213: 658453594670847301
+    second: Gnome Hop_115
+  - first:
+      213: 8205982785371836877
+    second: Gnome Hop_116
+  - first:
+      213: 8214184273499499144
+    second: Gnome Hop_117
+  - first:
+      213: -6746990814600465445
+    second: Gnome Hop_118
+  - first:
+      213: -6551556190329118057
+    second: Gnome Hop_119
+  - first:
+      213: -4021514518400400403
+    second: Gnome Hop_120
+  - first:
+      213: 5082421136323506192
+    second: Gnome Hop_121
+  - first:
+      213: 6080702263959845133
+    second: Gnome Hop_122
+  - first:
+      213: -1832695220131210857
+    second: Gnome Hop_123
+  - first:
+      213: 2327353853503633728
+    second: Gnome Hop_124
+  - first:
+      213: -9070521606030888416
+    second: Gnome Hop_125
+  - first:
+      213: 2971368211523835072
+    second: Gnome Hop_126
+  - first:
+      213: -1720427027193010501
+    second: Gnome Hop_127
+  - first:
+      213: 2263765636887808826
+    second: Gnome Hop_128
+  - first:
+      213: 3367398429772708623
+    second: Gnome Hop_129
+  - first:
+      213: -8048389521321103864
+    second: Gnome Hop_130
+  - first:
+      213: -8460945843376833937
+    second: Gnome Hop_131
+  - first:
+      213: -8651520003935088984
+    second: Gnome Hop_132
+  - first:
+      213: -7053373053588673595
+    second: Gnome Hop_133
+  - first:
+      213: -1936899684944914281
+    second: Gnome Hop_134
+  - first:
+      213: -6447504225821384077
+    second: Gnome Hop_135
+  - first:
+      213: -8312774080148433919
+    second: Gnome Hop_136
+  - first:
+      213: 4048290135583945819
+    second: Gnome Hop_137
+  - first:
+      213: -686552680802989939
+    second: Gnome Hop_138
+  - first:
+      213: 1687042625439713234
+    second: Gnome Hop_139
+  - first:
+      213: -4992760365695206674
+    second: Gnome Hop_140
+  - first:
+      213: -9013258821006787230
+    second: Gnome Hop_141
+  - first:
+      213: 8413473062296028159
+    second: Gnome Hop_142
+  - first:
+      213: -7152857699609157570
+    second: Gnome Hop_143
+  - first:
+      213: -7746014671141185786
+    second: Gnome Hop_144
+  - first:
+      213: 6733513540489209898
+    second: Gnome Hop_145
+  - first:
+      213: -4105262588910372312
+    second: Gnome Hop_146
+  - first:
+      213: 685039674360975416
+    second: Gnome Hop_147
+  - first:
+      213: -1034767065333477233
+    second: Gnome Hop_148
+  - first:
+      213: 2086950508641630231
+    second: Gnome Hop_149
+  - first:
+      213: -5907522472403502177
+    second: Gnome Hop_150
+  - first:
+      213: -8969796868407891069
+    second: Gnome Hop_151
+  - first:
+      213: -5718015694952282740
+    second: Gnome Hop_152
+  - first:
+      213: 6023371426243294528
+    second: Gnome Hop_153
+  - first:
+      213: 639417677784983816
+    second: Gnome Hop_154
+  - first:
+      213: 4093959855058420158
+    second: Gnome Hop_155
+  - first:
+      213: 3996900010535866083
+    second: Gnome Hop_156
+  - first:
+      213: 4827846376266648573
+    second: Gnome Hop_157
+  - first:
+      213: -6361414594155031383
+    second: Gnome Hop_158
+  - first:
+      213: 2537076570804519409
+    second: Gnome Hop_159
+  - first:
+      213: -5074429975705167994
+    second: Gnome Hop_160
+  - first:
+      213: 2549828555505287532
+    second: Gnome Hop_161
+  - first:
+      213: 8451307597945376659
+    second: Gnome Hop_162
+  - first:
+      213: 4761774102366496032
+    second: Gnome Hop_163
+  - first:
+      213: 2198660654135543769
+    second: Gnome Hop_164
+  - first:
+      213: -3678464954214767777
+    second: Gnome Hop_165
+  - first:
+      213: -2690334669108934707
+    second: Gnome Hop_166
+  - first:
+      213: -7191628295765413313
+    second: Gnome Hop_167
+  - first:
+      213: -2090017959211805469
+    second: Gnome Hop_168
+  - first:
+      213: 1827168511627167635
+    second: Gnome Hop_169
+  - first:
+      213: -8478102332730365501
+    second: Gnome Hop_170
+  - first:
+      213: -6869895793536392357
+    second: Gnome Hop_171
+  - first:
+      213: -430595976617017814
+    second: Gnome Hop_172
+  - first:
+      213: 2569938605207461064
+    second: Gnome Hop_173
+  - first:
+      213: 2098736693737029941
+    second: Gnome Hop_174
+  - first:
+      213: -3454862521652566874
+    second: Gnome Hop_175
+  - first:
+      213: 7539653092960655911
+    second: Gnome Hop_176
+  - first:
+      213: -4472966932358512568
+    second: Gnome Hop_177
+  - first:
+      213: 1379498337029023307
+    second: Gnome Hop_178
+  - first:
+      213: 1126623935799957958
+    second: Gnome Hop_179
+  - first:
+      213: -3175654487848292507
+    second: Gnome Hop_180
+  - first:
+      213: 3886693699267093389
+    second: Gnome Hop_181
+  - first:
+      213: -644532621706430756
+    second: Gnome Hop_182
+  - first:
+      213: 8444055709361130317
+    second: Gnome Hop_183
+  - first:
+      213: -1464406029245351016
+    second: Gnome Hop_184
+  - first:
+      213: 10427473440554314
+    second: Gnome Hop_185
+  - first:
+      213: -2700171564218482210
+    second: Gnome Hop_186
+  - first:
+      213: 8978735812819690100
+    second: Gnome Hop_187
+  - first:
+      213: -8200552533368824122
+    second: Gnome Hop_188
+  - first:
+      213: -5412147724163430933
+    second: Gnome Hop_189
+  - first:
+      213: -247045993492476179
+    second: Gnome Hop_190
+  - first:
+      213: -5671880294306944545
+    second: Gnome Hop_191
+  - first:
+      213: 5703227530478050458
+    second: Gnome Hop_192
+  - first:
+      213: -7853025507989246660
+    second: Gnome Hop_193
+  - first:
+      213: 1385174997593323702
+    second: Gnome Hop_194
+  - first:
+      213: -5218808484978673284
+    second: Gnome Hop_195
+  - first:
+      213: -8814663388901572498
+    second: Gnome Hop_196
+  - first:
+      213: 7859833129933616522
+    second: Gnome Hop_197
+  - first:
+      213: -8373897589952333566
+    second: Gnome Hop_198
+  - first:
+      213: -5493467764701864568
+    second: Gnome Hop_199
+  - first:
+      213: -4064714553272514090
+    second: Gnome Hop_200
+  - first:
+      213: -61239433829996244
+    second: Gnome Hop_201
+  - first:
+      213: -3554192904975131565
+    second: Gnome Hop_202
+  - first:
+      213: -6653472218765427822
+    second: Gnome Hop_203
+  - first:
+      213: 4006913664954111633
+    second: Gnome Hop_204
+  - first:
+      213: 6960966269068541359
+    second: Gnome Hop_205
+  - first:
+      213: 6773038217607039336
+    second: Gnome Hop_206
+  - first:
+      213: 2564873491825832492
+    second: Gnome Hop_207
+  - first:
+      213: 8594770431657464133
+    second: Gnome Hop_208
+  - first:
+      213: 6567103430230801049
+    second: Gnome Hop_209
+  - first:
+      213: 4117925909365033811
+    second: Gnome Hop_210
+  - first:
+      213: 8571272722483589843
+    second: Gnome Hop_211
+  - first:
+      213: 3206135174436766345
+    second: Gnome Hop_212
+  - first:
+      213: 1407518818019781387
+    second: Gnome Hop_213
+  - first:
+      213: -6384938343534411786
+    second: Gnome Hop_214
+  - first:
+      213: 6163925269138009034
+    second: Gnome Hop_215
+  - first:
+      213: 4613907076802243566
+    second: Gnome Hop_216
+  - first:
+      213: -6694429198077122067
+    second: Gnome Hop_217
+  - first:
+      213: 169625919608758530
+    second: Gnome Hop_218
+  - first:
+      213: 4954709376706287713
+    second: Gnome Hop_219
+  - first:
+      213: 2516765056762638259
+    second: Gnome Hop_220
+  - first:
+      213: -9128654101707606850
+    second: Gnome Hop_221
+  - first:
+      213: 2972576620226906423
+    second: Gnome Hop_222
+  - first:
+      213: 6619963068216023127
+    second: Gnome Hop_223
+  - first:
+      213: 5769318227832606036
+    second: Gnome Hop_224
+  - first:
+      213: -1983347899856116106
+    second: Gnome Hop_225
+  - first:
+      213: -8269224242840867649
+    second: Gnome Hop_226
+  - first:
+      213: 334485558000957911
+    second: Gnome Hop_227
+  - first:
+      213: -3534518906839114238
+    second: Gnome Hop_228
+  - first:
+      213: -7941089108517669273
+    second: Gnome Hop_229
+  - first:
+      213: 2243239156383506893
+    second: Gnome Hop_230
+  - first:
+      213: 3300641559668453945
+    second: Gnome Hop_231
+  - first:
+      213: -6339911852667398460
+    second: Gnome Hop_232
+  - first:
+      213: 8965492977295103480
+    second: Gnome Hop_233
+  - first:
+      213: 3471069447778965573
+    second: Gnome Hop_234
+  - first:
+      213: 106012173597208886
+    second: Gnome Hop_235
+  - first:
+      213: 3599114432135468993
+    second: Gnome Hop_236
+  - first:
+      213: 2967804289976740721
+    second: Gnome Hop_237
+  - first:
+      213: 5663770846899620893
+    second: Gnome Hop_238
+  - first:
+      213: -1360628270898267131
+    second: Gnome Hop_239
+  - first:
+      213: 1295072176349839152
+    second: Gnome Hop_240
+  - first:
+      213: 6798476995303456809
+    second: Gnome Hop_241
+  - first:
+      213: -2131730949071700271
+    second: Gnome Hop_242
+  - first:
+      213: 7330624719801789111
+    second: Gnome Hop_243
+  - first:
+      213: 4647369003952937369
+    second: Gnome Hop_244
+  - first:
+      213: 8054009863854888173
+    second: Gnome Hop_245
+  - first:
+      213: -6721612905350052487
+    second: Gnome Hop_246
+  - first:
+      213: 7453238828165139313
+    second: Gnome Hop_247
+  - first:
+      213: -1288659875381639860
+    second: Gnome Hop_248
+  - first:
+      213: 4616609699045429408
+    second: Gnome Hop_249
+  - first:
+      213: -7708300589279210759
+    second: Gnome Hop_250
+  - first:
+      213: -6871716033616616290
+    second: Gnome Hop_251
+  - first:
+      213: 1138187567033154811
+    second: Gnome Hop_252
+  - first:
+      213: -5691787276526233474
+    second: Gnome Hop_253
+  - first:
+      213: 572753221675341425
+    second: Gnome Hop_254
+  - first:
+      213: 33795229242816788
+    second: Gnome Hop_255
+  - first:
+      213: 9059449133106179769
+    second: Gnome Hop_256
+  - first:
+      213: -1831806209520917854
+    second: Gnome Hop_257
+  - first:
+      213: -4076111845492104643
+    second: Gnome Hop_258
+  - first:
+      213: -6536174873827484498
+    second: Gnome Hop_259
+  - first:
+      213: 6423570860993032141
+    second: Gnome Hop_260
+  - first:
+      213: 1902167659467052248
+    second: Gnome Hop_261
+  - first:
+      213: -3122287561488207566
+    second: Gnome Hop_262
+  - first:
+      213: -599888231841898183
+    second: Gnome Hop_263
+  - first:
+      213: 7325508820784275905
+    second: Gnome Hop_264
+  - first:
+      213: 8844047583124345858
+    second: Gnome Hop_265
+  - first:
+      213: 8927143352726259452
+    second: Gnome Hop_266
+  - first:
+      213: -2957771479985292395
+    second: Gnome Hop_267
+  - first:
+      213: 24551884514243438
+    second: Gnome Hop_268
+  - first:
+      213: -9148640579188499305
+    second: Gnome Hop_269
+  - first:
+      213: 6784137654019200997
+    second: Gnome Hop_270
+  - first:
+      213: 2923051155668578469
+    second: Gnome Hop_271
+  - first:
+      213: 1229330831349652622
+    second: Gnome Hop_272
+  - first:
+      213: -922950912485145785
+    second: Gnome Hop_273
+  - first:
+      213: -6720863647949814862
+    second: Gnome Hop_274
+  - first:
+      213: -1727439766990523070
+    second: Gnome Hop_275
+  - first:
+      213: 346696388024441200
+    second: Gnome Hop_276
+  - first:
+      213: 7829745328533111000
+    second: Gnome Hop_277
+  - first:
+      213: -94124583954573327
+    second: Gnome Hop_278
+  - first:
+      213: -2598843357083592062
+    second: Gnome Hop_279
+  - first:
+      213: -5312602752039262722
+    second: Gnome Hop_280
+  - first:
+      213: 4564489033884122316
+    second: Gnome Hop_281
+  - first:
+      213: -8710208104417366135
+    second: Gnome Hop_282
+  - first:
+      213: 8437361814830706050
+    second: Gnome Hop_283
+  - first:
+      213: -5626616048782868862
+    second: Gnome Hop_284
+  - first:
+      213: -2102643901949885182
+    second: Gnome Hop_285
+  - first:
+      213: 5103063321034705385
+    second: Gnome Hop_286
+  - first:
+      213: 912284684919567443
+    second: Gnome Hop_287
+  - first:
+      213: -7097794485552310228
+    second: Gnome Hop_288
+  - first:
+      213: -3470775982566728279
+    second: Gnome Hop_289
+  - first:
+      213: -4466399289726277331
+    second: Gnome Hop_290
+  - first:
+      213: 3845025868784764401
+    second: Gnome Hop_291
+  - first:
+      213: -7367644973871002833
+    second: Gnome Hop_292
+  - first:
+      213: 1747872110774032564
+    second: Gnome Hop_293
+  - first:
+      213: -3599753489680478563
+    second: Gnome Hop_294
+  - first:
+      213: -2195027364790294074
+    second: Gnome Hop_295
+  - first:
+      213: -826617551878172941
+    second: Gnome Hop_296
+  - first:
+      213: 431013956901915260
+    second: Gnome Hop_297
+  - first:
+      213: 327871669316141875
+    second: Gnome Hop_298
+  - first:
+      213: 8878415610151181892
+    second: Gnome Hop_299
+  - first:
+      213: -6456237761901191967
+    second: Gnome Hop_300
+  - first:
+      213: 8226584510679146702
+    second: Gnome Hop_301
+  - first:
+      213: 6286365539100197488
+    second: Gnome Hop_302
+  - first:
+      213: 114277418803675649
+    second: Gnome Hop_303
+  - first:
+      213: -5298755699906876506
+    second: Gnome Hop_304
+  - first:
+      213: -2704226343979642454
+    second: Gnome Hop_305
+  - first:
+      213: 2462832458128366511
+    second: Gnome Hop_306
+  - first:
+      213: -2459900831616083651
+    second: Gnome Hop_307
+  - first:
+      213: 1492501025703128562
+    second: Gnome Hop_308
+  - first:
+      213: -1878862286380941973
+    second: Gnome Hop_309
+  - first:
+      213: -120850427361694296
+    second: Gnome Hop_310
+  - first:
+      213: 2633240298571104228
+    second: Gnome Hop_311
+  - first:
+      213: 1289436387306474588
+    second: Gnome Hop_312
+  - first:
+      213: -8794480346047778746
+    second: Gnome Hop_313
+  - first:
+      213: -363050520220461015
+    second: Gnome Hop_314
+  - first:
+      213: 8808958937163526916
+    second: Gnome Hop_315
+  - first:
+      213: -2929578102437715998
+    second: Gnome Hop_316
+  - first:
+      213: 956861533696319342
+    second: Gnome Hop_317
+  - first:
+      213: -7254563050572319779
+    second: Gnome Hop_318
+  - first:
+      213: 3523169085651073278
+    second: Gnome Hop_319
+  - first:
+      213: -406384166238582737
+    second: Gnome Hop_320
+  - first:
+      213: 6194915317620972068
+    second: Gnome Hop_321
+  - first:
+      213: 8900607940971641481
+    second: Gnome Hop_322
+  - first:
+      213: 8653750361074261803
+    second: Gnome Hop_323
+  - first:
+      213: -1426090012174934214
+    second: Gnome Hop_324
+  - first:
+      213: 415740343584747345
+    second: Gnome Hop_325
+  - first:
+      213: 35181089064108767
+    second: Gnome Hop_326
+  - first:
+      213: -1363688967916426442
+    second: Gnome Hop_327
+  - first:
+      213: -8216596561046250126
+    second: Gnome Hop_328
+  - first:
+      213: 3859342371567552484
+    second: Gnome Hop_329
+  - first:
+      213: 632986878096646416
+    second: Gnome Hop_330
+  - first:
+      213: -7706693271029810887
+    second: Gnome Hop_331
+  - first:
+      213: 4806058583631212484
+    second: Gnome Hop_332
+  - first:
+      213: -5337352280292538700
+    second: Gnome Hop_333
+  - first:
+      213: -3112780014691539062
+    second: Gnome Hop_334
+  - first:
+      213: -7118438669173107228
+    second: Gnome Hop_335
+  - first:
+      213: 8180373868794230865
+    second: Gnome Hop_336
+  - first:
+      213: -3600493505722625199
+    second: Gnome Hop_337
+  - first:
+      213: -1863980618141571307
+    second: Gnome Hop_338
+  - first:
+      213: -3378770408467252750
+    second: Gnome Hop_339
+  - first:
+      213: -8052805660020927314
+    second: Gnome Hop_340
+  - first:
+      213: 1714660140669968618
+    second: Gnome Hop_341
+  - first:
+      213: 336269021627444320
+    second: Gnome Hop_342
+  - first:
+      213: -864719647910775309
+    second: Gnome Hop_343
+  - first:
+      213: 7581190321225168747
+    second: Gnome Hop_344
+  - first:
+      213: 4016338072253288300
+    second: Gnome Hop_345
+  - first:
+      213: 1884113033802875386
+    second: Gnome Hop_346
+  - first:
+      213: -3100941576747022634
+    second: Gnome Hop_347
+  - first:
+      213: -4005444498573798377
+    second: Gnome Hop_348
+  - first:
+      213: 6507665839590888747
+    second: Gnome Hop_349
+  - first:
+      213: 5643946880962151813
+    second: Gnome Hop_350
+  - first:
+      213: 4017373915363658619
+    second: Gnome Hop_351
+  - first:
+      213: 6439613711738664594
+    second: Gnome Hop_352
+  - first:
+      213: -7639719934789166126
+    second: Gnome Hop_353
+  - first:
+      213: 577910008237698033
+    second: Gnome Hop_354
+  - first:
+      213: -5478614398252923774
+    second: Gnome Hop_355
+  - first:
+      213: 1967296174065649579
+    second: Gnome Hop_356
+  - first:
+      213: -3893637079243557941
+    second: Gnome Hop_357
+  - first:
+      213: 2751195490287171603
+    second: Gnome Hop_358
+  - first:
+      213: -2147155390809830654
+    second: Gnome Hop_359
+  - first:
+      213: 5942996158360566321
+    second: Gnome Hop_360
+  - first:
+      213: 4435886687035297711
+    second: Gnome Hop_361
+  - first:
+      213: 5453450612135304318
+    second: Gnome Hop_362
+  - first:
+      213: -3642907237683361167
+    second: Gnome Hop_363
+  - first:
+      213: 1871941613024374766
+    second: Gnome Hop_364
+  - first:
+      213: -2730493650754663320
+    second: Gnome Hop_365
+  - first:
+      213: -8431425761287880750
+    second: Gnome Hop_366
+  - first:
+      213: -4246370608154798521
+    second: Gnome Hop_367
+  - first:
+      213: 3434751604180463465
+    second: Gnome Hop_368
+  - first:
+      213: 1213004000841164888
+    second: Gnome Hop_369
+  - first:
+      213: -7976660549337190735
+    second: Gnome Hop_370
+  - first:
+      213: -7790431925388607730
+    second: Gnome Hop_371
+  - first:
+      213: 7509847143364258137
+    second: Gnome Hop_372
+  - first:
+      213: -6086749836379666115
+    second: Gnome Hop_373
+  - first:
+      213: 6672677654577103438
+    second: Gnome Hop_374
+  - first:
+      213: 5538550595512886038
+    second: Gnome Hop_375
+  - first:
+      213: 8933922708469683030
+    second: Gnome Hop_376
+  - first:
+      213: -4179531497379511597
+    second: Gnome Hop_377
+  - first:
+      213: 5674752022887243212
+    second: Gnome Hop_378
+  - first:
+      213: -6126678383825910556
+    second: Gnome Hop_379
+  - first:
+      213: -8568249846382964087
+    second: Gnome Hop_380
+  - first:
+      213: 5459962302266908415
+    second: Gnome Hop_381
+  - first:
+      213: -392734412479925445
+    second: Gnome Hop_382
+  - first:
+      213: -2483815548442557612
+    second: Gnome Hop_383
+  - first:
+      213: 6494275140816581862
+    second: Gnome Hop_384
+  - first:
+      213: -6038595551192381185
+    second: Gnome Hop_385
+  - first:
+      213: -7200515781208926605
+    second: Gnome Hop_386
+  - first:
+      213: -1964236670065706545
+    second: Gnome Hop_387
+  - first:
+      213: 5049629439577536771
+    second: Gnome Hop_388
+  - first:
+      213: 4727509202832245194
+    second: Gnome Hop_389
+  - first:
+      213: 3527394525119733362
+    second: Gnome Hop_390
+  - first:
+      213: -156825933448919956
+    second: Gnome Hop_391
+  - first:
+      213: 664427364630065255
+    second: Gnome Hop_392
+  - first:
+      213: 1331922926905097622
+    second: Gnome Hop_393
+  - first:
+      213: -2999636752918181869
+    second: Gnome Hop_394
+  - first:
+      213: -7738960155462696173
+    second: Gnome Hop_395
+  - first:
+      213: 8330212287553826390
+    second: Gnome Hop_396
+  - first:
+      213: 7774704991484009135
+    second: Gnome Hop_397
+  - first:
+      213: 5357268957635617787
+    second: Gnome Hop_398
+  - first:
+      213: -709810850274967111
+    second: Gnome Hop_399
+  - first:
+      213: -1811963344708822174
+    second: Gnome Hop_400
+  - first:
+      213: 6708890728055497867
+    second: Gnome Hop_401
+  - first:
+      213: 5743685977243271299
+    second: Gnome Hop_402
+  - first:
+      213: 1151781606884051683
+    second: Gnome Hop_403
+  - first:
+      213: 8068313254035167558
+    second: Gnome Hop_404
+  - first:
+      213: 5705283443377913112
+    second: Gnome Hop_405
+  - first:
+      213: 4170027100234277094
+    second: Gnome Hop_406
+  - first:
+      213: 1415679759491126781
+    second: Gnome Hop_407
+  - first:
+      213: 1170559242976273785
+    second: Gnome Hop_408
+  - first:
+      213: -8667688467990757966
+    second: Gnome Hop_409
+  - first:
+      213: 4185937358389663931
+    second: Gnome Hop_410
+  - first:
+      213: -1594210935017483589
+    second: Gnome Hop_411
+  - first:
+      213: -5230143346130844988
+    second: Gnome Hop_412
+  - first:
+      213: -3147442866895065752
+    second: Gnome Hop_413
+  - first:
+      213: 5220511945777193353
+    second: Gnome Hop_414
+  - first:
+      213: 1055625122013707661
+    second: Gnome Hop_415
+  - first:
+      213: 1897285919397241535
+    second: Gnome Hop_416
+  - first:
+      213: 407419449148817445
+    second: Gnome Hop_417
+  - first:
+      213: -1562561867998229578
+    second: Gnome Hop_418
+  - first:
+      213: 5181807776025238176
+    second: Gnome Hop_419
+  - first:
+      213: -2079193236024661679
+    second: Gnome Hop_420
+  - first:
+      213: -810312513724939246
+    second: Gnome Hop_421
+  - first:
+      213: 3634505279846917928
+    second: Gnome Hop_422
+  - first:
+      213: -690765415857612673
+    second: Gnome Hop_423
+  - first:
+      213: -518213793873629869
+    second: Gnome Hop_424
+  - first:
+      213: -8075218225318814766
+    second: Gnome Hop_425
+  - first:
+      213: 4856162484087540271
+    second: Gnome Hop_426
+  - first:
+      213: 3636308369267155527
+    second: Gnome Hop_427
+  - first:
+      213: -8843489441115035071
+    second: Gnome Hop_428
+  - first:
+      213: -6318276679843390384
+    second: Gnome Hop_429
+  - first:
+      213: 794755328007414832
+    second: Gnome Hop_430
+  - first:
+      213: 3475984750891361528
+    second: Gnome Hop_431
+  - first:
+      213: 2537407402072479249
+    second: Gnome Hop_432
+  - first:
+      213: 300773849877430582
+    second: Gnome Hop_433
+  - first:
+      213: -2549896842410074425
+    second: Gnome Hop_434
+  - first:
+      213: 6260865505971560380
+    second: Gnome Hop_435
+  - first:
+      213: 7493817642286407432
+    second: Gnome Hop_436
+  - first:
+      213: -2308655626247442162
+    second: Gnome Hop_437
+  - first:
+      213: -7405375515691251630
+    second: Gnome Hop_438
+  - first:
+      213: -7137697246093162706
+    second: Gnome Hop_439
+  - first:
+      213: -48028951870588866
+    second: Gnome Hop_440
+  - first:
+      213: -6597533488734577065
+    second: Gnome Hop_441
+  - first:
+      213: 5883300821286208743
+    second: Gnome Hop_442
+  - first:
+      213: 7990165989192258611
+    second: Gnome Hop_443
+  - first:
+      213: 8149257712617724477
+    second: Gnome Hop_444
+  - first:
+      213: 422527854512010684
+    second: Gnome Hop_445
+  - first:
+      213: -3818670465464344272
+    second: Gnome Hop_446
+  - first:
+      213: -912539406104545955
+    second: Gnome Hop_447
+  - first:
+      213: -1323727039194230376
+    second: Gnome Hop_448
+  - first:
+      213: -7318689166169995237
+    second: Gnome Hop_449
+  - first:
+      213: -1103188001411643676
+    second: Gnome Hop_450
+  - first:
+      213: 6443637310701552750
+    second: Gnome Hop_451
+  - first:
+      213: 2201277907390492258
+    second: Gnome Hop_452
+  - first:
+      213: 7329520663626844203
+    second: Gnome Hop_453
+  - first:
+      213: 4808144814435682603
+    second: Gnome Hop_454
+  - first:
+      213: 3629691159717018925
+    second: Gnome Hop_455
+  - first:
+      213: 4651651484490443783
+    second: Gnome Hop_456
+  - first:
+      213: -4435446508218229455
+    second: Gnome Hop_457
+  - first:
+      213: 5295829197561217052
+    second: Gnome Hop_458
+  - first:
+      213: 8179399744650663571
+    second: Gnome Hop_459
+  - first:
+      213: 378337482083706708
+    second: Gnome Hop_460
+  - first:
+      213: 5995008130254899731
+    second: Gnome Hop_461
+  - first:
+      213: 2445641089078062298
+    second: Gnome Hop_462
+  - first:
+      213: -8109316975277436793
+    second: Gnome Hop_463
+  - first:
+      213: 1877431388716456903
+    second: Gnome Hop_464
+  - first:
+      213: 3029857066746971586
+    second: Gnome Hop_465
+  - first:
+      213: 6881602557673561035
+    second: Gnome Hop_466
+  - first:
+      213: -6483934259191017756
+    second: Gnome Hop_467
+  - first:
+      213: -6260388099724785804
+    second: Gnome Hop_468
+  - first:
+      213: 5110544165858669385
+    second: Gnome Hop_469
+  - first:
+      213: -2540590945186762602
+    second: Gnome Hop_470
+  - first:
+      213: 2840935199468558001
+    second: Gnome Hop_471
+  - first:
+      213: -78516516319951649
+    second: Gnome Hop_472
+  - first:
+      213: -2191461596695057949
+    second: Gnome Hop_473
+  - first:
+      213: -6902373338656394105
+    second: Gnome Hop_474
+  - first:
+      213: -8223094720179845452
+    second: Gnome Hop_475
+  - first:
+      213: -1447065249956673291
+    second: Gnome Hop_476
+  - first:
+      213: 443310415777979341
+    second: Gnome Hop_477
+  - first:
+      213: 106748844233481301
+    second: Gnome Hop_478
+  - first:
+      213: 9018396369157561399
+    second: Gnome Hop_479
+  - first:
+      213: -1187356822406761540
+    second: Gnome Hop_480
+  - first:
+      213: -8540960053089633218
+    second: Gnome Hop_481
+  - first:
+      213: -4595158991657388251
+    second: Gnome Hop_482
+  - first:
+      213: 917573316408196953
+    second: Gnome Hop_483
+  - first:
+      213: 2729434672218818933
+    second: Gnome Hop_484
+  - first:
+      213: 6092055306554620313
+    second: Gnome Hop_485
+  - first:
+      213: 530941965715767800
+    second: Gnome Hop_486
+  - first:
+      213: -9215830361241876378
+    second: Gnome Hop_487
+  - first:
+      213: -7907049366440766623
+    second: Gnome Hop_488
+  - first:
+      213: 6347074003439984806
+    second: Gnome Hop_489
+  - first:
+      213: -6787364835590324734
+    second: Gnome Hop_490
+  - first:
+      213: 3176789649477042020
+    second: Gnome Hop_491
+  - first:
+      213: -4230706368107137525
+    second: Gnome Hop_492
+  - first:
+      213: -2810512986064779708
+    second: Gnome Hop_493
+  - first:
+      213: 5046790011639867358
+    second: Gnome Hop_494
+  - first:
+      213: -319828323003320670
+    second: Gnome Hop_495
+  - first:
+      213: 919046299411321973
+    second: Gnome Hop_496
+  - first:
+      213: 2120244377950050694
+    second: Gnome Hop_497
+  - first:
+      213: -3641217670525686139
+    second: Gnome Hop_498
+  - first:
+      213: 7829526349995126228
+    second: Gnome Hop_499
+  - first:
+      213: 1558790999938563179
+    second: Gnome Hop_500
+  - first:
+      213: -5940701585387010274
+    second: Gnome Hop_501
+  - first:
+      213: 4247004374308858814
+    second: Gnome Hop_502
+  - first:
+      213: 4266621659679434624
+    second: Gnome Hop_503
+  - first:
+      213: 6125451349360701698
+    second: Gnome Hop_504
+  - first:
+      213: -5030722309610648342
+    second: Gnome Hop_505
+  - first:
+      213: -1720669222768794417
+    second: Gnome Hop_506
+  - first:
+      213: -2548206828682489350
+    second: Gnome Hop_507
+  - first:
+      213: 4514112855085528670
+    second: Gnome Hop_508
+  - first:
+      213: -5518405360489282126
+    second: Gnome Hop_509
+  - first:
+      213: -9011407902211409048
+    second: Gnome Hop_510
+  - first:
+      213: -6458102213670778565
+    second: Gnome Hop_511
+  - first:
+      213: -3354366367874763561
+    second: Gnome Hop_512
+  - first:
+      213: -6427191264853161155
+    second: Gnome Hop_513
+  - first:
+      213: -2665623790128665916
+    second: Gnome Hop_514
+  - first:
+      213: 1902543691432196152
+    second: Gnome Hop_515
+  - first:
+      213: 6030888389820920990
+    second: Gnome Hop_516
+  - first:
+      213: 8227859914932144448
+    second: Gnome Hop_517
+  - first:
+      213: 7111390773425398040
+    second: Gnome Hop_518
+  - first:
+      213: 4872632452807625968
+    second: Gnome Hop_519
+  - first:
+      213: -1559905293208925845
+    second: Gnome Hop_520
+  - first:
+      213: 8001553532314719371
+    second: Gnome Hop_521
+  - first:
+      213: -1439465421066379587
+    second: Gnome Hop_522
+  - first:
+      213: 4162152503705271682
+    second: Gnome Hop_523
+  - first:
+      213: 835478902430650282
+    second: Gnome Hop_524
+  - first:
+      213: -981819124407866343
+    second: Gnome Hop_525
+  - first:
+      213: 7033240274797041669
+    second: Gnome Hop_526
+  - first:
+      213: 9199499222347975628
+    second: Gnome Hop_527
+  - first:
+      213: 2210777451355979730
+    second: Gnome Hop_528
+  - first:
+      213: 4019900335125439994
+    second: Gnome Hop_529
+  - first:
+      213: -1622563466119272041
+    second: Gnome Hop_530
+  - first:
+      213: -4777258528474936780
+    second: Gnome Hop_531
+  - first:
+      213: -3517913996787514291
+    second: Gnome Hop_532
+  - first:
+      213: 2029250345527436262
+    second: Gnome Hop_533
+  - first:
+      213: 4432705597209818418
+    second: Gnome Hop_534
+  - first:
+      213: -9088561536649271556
+    second: Gnome Hop_535
+  - first:
+      213: -3189327872064902713
+    second: Gnome Hop_536
+  - first:
+      213: 1427319424514761511
+    second: Gnome Hop_537
+  - first:
+      213: -2327619040109174443
+    second: Gnome Hop_538
+  - first:
+      213: 7125777333366042391
+    second: Gnome Hop_539
+  - first:
+      213: -1979917288824592835
+    second: Gnome Hop_540
+  - first:
+      213: -4476812778772292946
+    second: Gnome Hop_541
+  - first:
+      213: -3894890681752594833
+    second: Gnome Hop_542
+  - first:
+      213: 5297950491008712841
+    second: Gnome Hop_543
+  - first:
+      213: -7449522836403673797
+    second: Gnome Hop_544
+  - first:
+      213: 6146690332856483693
+    second: Gnome Hop_545
+  - first:
+      213: -6002482297362683127
+    second: Gnome Hop_546
+  - first:
+      213: 3035324898463538709
+    second: Gnome Hop_547
+  - first:
+      213: 7851660544809307404
+    second: Gnome Hop_548
+  - first:
+      213: -1173798930668019072
+    second: Gnome Hop_549
+  - first:
+      213: 441994132964356932
+    second: Gnome Hop_550
+  - first:
+      213: -1274758641566057111
+    second: Gnome Hop_551
+  - first:
+      213: 7825084493947194400
+    second: Gnome Hop_552
+  - first:
+      213: -8804164342445335043
+    second: Gnome Hop_553
+  - first:
+      213: -2562404696779291524
+    second: Gnome Hop_554
+  - first:
+      213: -2644585577114286257
+    second: Gnome Hop_555
+  - first:
+      213: 2899325600326483014
+    second: Gnome Hop_556
+  - first:
+      213: 6824260313085814124
+    second: Gnome Hop_557
+  - first:
+      213: 6470728398640058433
+    second: Gnome Hop_558
+  - first:
+      213: 1438750118192905491
+    second: Gnome Hop_559
+  - first:
+      213: 6618944768490804537
+    second: Gnome Hop_560
+  - first:
+      213: 8101169904145245035
+    second: Gnome Hop_561
+  - first:
+      213: 4119621666958310137
+    second: Gnome Hop_562
+  - first:
+      213: -1841396506188668953
+    second: Gnome Hop_563
+  - first:
+      213: 8012170286716812497
+    second: Gnome Hop_564
+  - first:
+      213: 9179943768937288253
+    second: Gnome Hop_565
+  - first:
+      213: -4883785916205161952
+    second: Gnome Hop_566
+  - first:
+      213: -7298155629541121387
+    second: Gnome Hop_567
+  - first:
+      213: 5545656853746116443
+    second: Gnome Hop_568
+  - first:
+      213: 5756854800178281033
+    second: Gnome Hop_569
+  - first:
+      213: 3384344673812105837
+    second: Gnome Hop_570
+  - first:
+      213: 7751580227604299207
+    second: Gnome Hop_571
+  - first:
+      213: -6323560104711473723
+    second: Gnome Hop_572
+  - first:
+      213: 2085920077583317578
+    second: Gnome Hop_573
+  - first:
+      213: 5441110086591258206
+    second: Gnome Hop_574
+  - first:
+      213: 6401071992605239024
+    second: Gnome Hop_575
+  - first:
+      213: -6107402902157931524
+    second: Gnome Hop_576
+  - first:
+      213: 656951139625985017
+    second: Gnome Hop_577
+  - first:
+      213: -6464784425672205539
+    second: Gnome Hop_578
+  - first:
+      213: 6909302446872763427
+    second: Gnome Hop_579
+  - first:
+      213: -4792823795937747178
+    second: Gnome Hop_580
+  - first:
+      213: -678013929355810684
+    second: Gnome Hop_581
+  - first:
+      213: -82415492582929496
+    second: Gnome Hop_582
+  - first:
+      213: 6305669600067703773
+    second: Gnome Hop_583
+  - first:
+      213: -7354020119278007602
+    second: Gnome Hop_584
+  - first:
+      213: -6631882517625135351
+    second: Gnome Hop_585
+  - first:
+      213: -6541981703160638702
+    second: Gnome Hop_586
+  - first:
+      213: -8695682388886716632
+    second: Gnome Hop_587
+  - first:
+      213: -4234180925670103160
+    second: Gnome Hop_588
+  - first:
+      213: -8766616952346014505
+    second: Gnome Hop_589
+  - first:
+      213: 6109666221292069168
+    second: Gnome Hop_590
+  - first:
+      213: 2309792396124135583
+    second: Gnome Hop_591
+  - first:
+      213: -8974046974091549516
+    second: Gnome Hop_592
+  - first:
+      213: -8505772414778945896
+    second: Gnome Hop_593
+  - first:
+      213: -8771120356787920644
+    second: Gnome Hop_594
+  - first:
+      213: 8183340730714950369
+    second: Gnome Hop_595
+  - first:
+      213: 2448305963345698623
+    second: Gnome Hop_596
+  - first:
+      213: 4880134748096444603
+    second: Gnome Hop_597
+  - first:
+      213: -5146638730984517344
+    second: Gnome Hop_598
+  - first:
+      213: -7499596636263903936
+    second: Gnome Hop_599
+  - first:
+      213: 7325373657310812323
+    second: Gnome Hop_600
+  - first:
+      213: -6160614947699244239
+    second: Gnome Hop_601
+  - first:
+      213: -3103687525638211665
+    second: Gnome Hop_602
+  - first:
+      213: -2044203993213683510
+    second: Gnome Hop_603
+  - first:
+      213: 4844517680736697275
+    second: Gnome Hop_604
+  - first:
+      213: -572687521247302267
+    second: Gnome Hop_605
+  - first:
+      213: -7435477708634596701
+    second: Gnome Hop_606
+  - first:
+      213: 8176581742250505855
+    second: Gnome Hop_607
+  - first:
+      213: 928896538589943201
+    second: Gnome Hop_608
+  - first:
+      213: 2780256009844511115
+    second: Gnome Hop_609
+  - first:
+      213: 2436938373550538810
+    second: Gnome Hop_610
+  - first:
+      213: -159460817170633127
+    second: Gnome Hop_611
+  - first:
+      213: 4866826429378560097
+    second: Gnome Hop_612
+  - first:
+      213: -2437806643301749528
+    second: Gnome Hop_613
+  - first:
+      213: 1107896282368205773
+    second: Gnome Hop_614
+  - first:
+      213: -4755487505011933755
+    second: Gnome Hop_615
+  - first:
+      213: 2386071073319753032
+    second: Gnome Hop_616
+  - first:
+      213: -3912295442794627307
+    second: Gnome Hop_617
+  - first:
+      213: 8740045761516243573
+    second: Gnome Hop_618
+  - first:
+      213: -5021638925946868719
+    second: Gnome Hop_619
+  - first:
+      213: -7634518950316842657
+    second: Gnome Hop_620
+  - first:
+      213: 9194036332528642044
+    second: Gnome Hop_621
+  - first:
+      213: -7881053886279212059
+    second: Gnome Hop_622
+  - first:
+      213: 3050635907454020827
+    second: Gnome Hop_623
+  - first:
+      213: 7694151539613024649
+    second: Gnome Hop_624
+  - first:
+      213: -6333865688116709846
+    second: Gnome Hop_625
+  - first:
+      213: 2147426175301449841
+    second: Gnome Hop_626
+  - first:
+      213: 5448376105319134433
+    second: Gnome Hop_627
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gnome Hop_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebddafc4e19ca6670800000000000000
+      internalID: 8532853575984537022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnome Hop_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c935d7ccbd541b0800000000000000
+      internalID: -5672886484280828777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnome Hop_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e13c8fd01c4f1900800000000000000
+      internalID: 657327705973076454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnome Hop_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbeed3d472162020800000000000000
+      internalID: 2316559351308807121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnome Hop_4
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321605ccd23099300800000000000000
+      internalID: 259241948786745635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnome Hop_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a968d3d75590108b0800000000000000
+      internalID: -5187855032976046438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnome Hop_6
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1e5398aebb8e3e0800000000000000
+      internalID: -2024161416504286770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnome Hop_7
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f847f2bb6282d90800000000000000
+      internalID: -7122400225289531641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnome Hop_8
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29914f00358325160800000000000000
+      internalID: 7012729498918721938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnome Hop_9
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b864821704c8600800000000000000
+      internalID: 471822915718253400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnome Hop_10
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f46f12fd6192d90800000000000000
+      internalID: -7122136188106420382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnome Hop_11
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308fc4d61c17d5ce0800000000000000
+      internalID: -1414849632348080125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
