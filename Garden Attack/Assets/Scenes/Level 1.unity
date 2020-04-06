@@ -141,8 +141,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   minSpawnDelay: 2
   maxSpawnDelay: 5
-  attackerPrefab: {fileID: 6549438084708097894, guid: 4ed60f24fc1b3ab4ba6ee96e63e301a5,
-    type: 3}
+  attackerPrefabArray:
+  - {fileID: 3130601646825342909, guid: 55b2c4a56c33ca948912863d77e64ea9, type: 3}
+  - {fileID: 6549438084708097894, guid: 4ed60f24fc1b3ab4ba6ee96e63e301a5, type: 3}
 --- !u!4 &152516337 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2542769789967693990, guid: c58274ffb4d87ed439e29def5d2e9e7d,
@@ -560,8 +561,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   minSpawnDelay: 2
   maxSpawnDelay: 5
-  attackerPrefab: {fileID: 6549438084708097894, guid: 4ed60f24fc1b3ab4ba6ee96e63e301a5,
-    type: 3}
+  attackerPrefabArray: []
 --- !u!4 &891166222 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2542769789967693990, guid: c58274ffb4d87ed439e29def5d2e9e7d,
@@ -657,8 +657,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   minSpawnDelay: 2
   maxSpawnDelay: 5
-  attackerPrefab: {fileID: 6549438084708097894, guid: 4ed60f24fc1b3ab4ba6ee96e63e301a5,
-    type: 3}
+  attackerPrefabArray: []
 --- !u!4 &1023243238 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2542769789967693990, guid: c58274ffb4d87ed439e29def5d2e9e7d,
@@ -881,8 +880,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   minSpawnDelay: 2
   maxSpawnDelay: 5
-  attackerPrefab: {fileID: 6549438084708097894, guid: 4ed60f24fc1b3ab4ba6ee96e63e301a5,
-    type: 3}
+  attackerPrefabArray: []
 --- !u!4 &1255876239 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2542769789967693990, guid: c58274ffb4d87ed439e29def5d2e9e7d,
@@ -1031,8 +1029,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   minSpawnDelay: 2
   maxSpawnDelay: 5
-  attackerPrefab: {fileID: 6549438084708097894, guid: 4ed60f24fc1b3ab4ba6ee96e63e301a5,
-    type: 3}
+  attackerPrefabArray: []
 --- !u!4 &1620601367 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2542769789967693990, guid: c58274ffb4d87ed439e29def5d2e9e7d,
