@@ -30,6 +30,11 @@ public class SceneLoader : MonoBehaviour
         SceneManager.LoadScene(currentSceneIndex + 1);
     }
 
+    public void LoadYouLoseScene()
+    {
+        SceneManager.LoadScene("Lose Screen");
+    }
+
     public void QuitGame()
     {
         Application.Quit();
