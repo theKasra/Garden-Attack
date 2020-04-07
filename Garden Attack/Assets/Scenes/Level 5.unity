@@ -880,6 +880,11 @@ PrefabInstance:
       propertyPath: Loop
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 319826532690889793, guid: 0f0be8c37f152b946b9d26882b853fcb,
+        type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 3a6c808c8ebb19b4cb250f7e7d271e0a, type: 3}
     - target: {fileID: 319826532690889794, guid: 0f0be8c37f152b946b9d26882b853fcb,
         type: 3}
       propertyPath: m_Name
@@ -1655,7 +1660,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1362477623, guid: 922e4333a43cc4843be03b7616bc7d03, type: 3}
       propertyPath: stars
-      value: 750
+      value: 700
       objectReference: {fileID: 0}
     - target: {fileID: 7844573223345806167, guid: 922e4333a43cc4843be03b7616bc7d03,
         type: 3}
@@ -1770,7 +1775,7 @@ PrefabInstance:
     - target: {fileID: 7899290421244475003, guid: 922e4333a43cc4843be03b7616bc7d03,
         type: 3}
       propertyPath: levelTime
-      value: 12
+      value: 17
       objectReference: {fileID: 0}
     - target: {fileID: 8617925775362788176, guid: 922e4333a43cc4843be03b7616bc7d03,
         type: 3}
