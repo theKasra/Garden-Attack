@@ -62,4 +62,9 @@ public class SceneLoader : MonoBehaviour
         SceneManager.LoadScene("Options Screen");
     }
 
+    public int GetSceneIndex()
+    {
+        return currentSceneIndex;
+    }
+
 }

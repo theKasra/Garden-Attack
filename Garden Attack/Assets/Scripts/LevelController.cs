@@ -36,6 +36,10 @@ public class LevelController : MonoBehaviour
         winLabel.SetActive(true);
         GetComponent<AudioSource>().Play();
         yield return new WaitForSeconds(waitToLoad);
+        if(FindObjectOfType<SceneLoader>().GetSceneIndex() == 5)
+        {
+            FindObjectOfType<SceneLoader>().LoadMainMenu();
+        }
         FindObjectOfType<SceneLoader>().LoadNextScene();
     }
 
