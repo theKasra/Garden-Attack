@@ -57,4 +57,9 @@ public class SceneLoader : MonoBehaviour
         SceneManager.LoadScene("Level 1");
     }
 
+    public void LoadOptionsScreen()
+    {
+        SceneManager.LoadScene("Options Screen");
+    }
+
 }
