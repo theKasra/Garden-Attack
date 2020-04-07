@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -7,6 +8,7 @@ public class Projectile : MonoBehaviour
 
     [Range(0f, 10f)] [SerializeField] float projectileSpeed = 1f;
     [SerializeField] float damage = 50f;
+    
 
     // Update is called once per frame
     void Update()
