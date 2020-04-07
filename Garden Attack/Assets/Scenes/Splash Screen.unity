@@ -433,6 +433,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1204511040}
   - component: {fileID: 1204511039}
+  - component: {fileID: 1204511041}
   m_Layer: 0
   m_Name: Load Screen Sound
   m_TagString: Untagged
@@ -450,9 +451,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 836e392bcfa0a47469e56ffa9e09e0e4, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 414968cee5c78d243a6880ca48bd7afd, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.82
+  m_Volume: 0.699
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -550,6 +551,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1204511041
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1204511038}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfeb13bdf297c3745b73ee6e9da20b7b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1549494064
 GameObject:
   m_ObjectHideFlags: 0
@@ -808,6 +821,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4267155710427774516, guid: 125a0f4fee7360240bdbdc2319c81ba2,
+        type: 3}
+      propertyPath: delayTime
+      value: 11
+      objectReference: {fileID: 0}
     - target: {fileID: 4267155710427774517, guid: 125a0f4fee7360240bdbdc2319c81ba2,
         type: 3}
       propertyPath: m_LocalPosition.x
